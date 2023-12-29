@@ -12,6 +12,7 @@ I am very curious and like to know how things work...
 -React <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/react.png" />
 
 ## 🌱 I’m Currently Learning
+- <img align="center" src="https://github.com/Norp1x/Norp1x/blob/main/mysql.png" /> MySQL
 - <img align="center" src="https://github.com/Norp1x/Norp1x/blob/main/docker.png" /> Docker
 - <img align="center" src="https://github.com/Norp1x/Norp1x/blob/main/mongodb.png" /> MongoDB
 
