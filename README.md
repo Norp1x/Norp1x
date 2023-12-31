@@ -17,7 +17,7 @@ I am very curious and like to know how things work...
 - <img align="center" src="https://github.com/Norp1x/Norp1x/blob/main/mongodb.png" /> MongoDB
 
 ## 🔭 Featured Projects
-- [PDF Generator](https://github.com/Norp1x/GeneratorPDF): This application is a PDF Generation Application built using Java, Spring Boot, and Maven. It is designed to generate files based on the template PDF file & inputs given by user
+- [PDF Generator](https://github.com/Norp1x/GeneratorPDF): This is a PDF Generation Application built using Java, Spring Boot, and Maven. It is designed to generate files based on the template PDF document & inputs given by user
   
 ## 📫 How to reach me?
 - LinkedIn: [Greg](https://www.linkedin.com/in/greg-dudek)
