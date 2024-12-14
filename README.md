@@ -5,7 +5,7 @@ I'm a passionate programmer who loves to explore new technologies and build cool
 I am very curious and like to know how things work...
 
 ## 🛠️ Technologies & Tools
--Java 17 <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/java.png" /> &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; -Spring Boot <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/spring.png" /><br>
+-Java <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/java.png" /> &emsp; &emsp; &emsp; &emsp; &nbsp; &nbsp; -Spring Boot <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/spring.png" /><br>
 -Thymeleaf <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/thymeleaf.png" /> &emsp; &emsp; &emsp; &emsp;-Git <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/git.png" /><br>
 -AWS <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/aws.png" />&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;-Linux <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/linux.png" /><br>
 -Powershell <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/powershell.png" />&emsp; &emsp; &emsp; &emsp;-RESTful API <img width="30" src="https://github.com/Norp1x/Norp1x/blob/main/api.png" /><br>
