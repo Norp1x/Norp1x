@@ -6,16 +6,17 @@ I am very curious and like to know how things work...
 
 ## 🛠️ Technologies & Tools
 
-|       <img align="center" width="24" src="Java.png"/> Java        |    <img width="24" align="center" src="Docker.png"/> Docker     |  <img align="center" width="24" src="thymeleaf.png"/> Thymeleaf  |
-|:-----------------------------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------------------------------:|
-|   <img align="center" width="24" src="Spring.png"/> Spring Boot   | <img align="center" width="24" src="Liquibase.png"/> Liquibase  |        <img width="24" align="center" src="Git.png"/> Git        |
-|        <img align="center" width="24" src="AWS.png"/> AWS         | <img align="center" width="24" src="Hibernate.png"/> Hibernate  |      <img width="24" align="center" src="Linux.png"/> Linux      |
-|     <img align="center" src="JUnit.png" width="24" /> JUnit 5     |   <img align="center" width="24" src="Swagger.png"/> Swagger    | <img width="24" align="center" src="Powershell.png"/> Powershell |                                                                |
-|    <img align="center" width="24" src="api.png"/> RESTful API     |   <img align="center" width="24" src="Postman.png"/> Postman    |    <img width="24" align="center" src="OpenAPI.png"/> OpenAPI    |
-|  <img width="24" align="center" src="Lubuntu.png"/>  Lubuntu      | <img width="24" align="center" src="Apache Groovy.png"/> Groovy |  <img width="24" align="center" src="lombok.png"/> Lombok        |
-|  <img align="center" width="24" src="SQLServer.png"/> SQL Server  |     <img align="center" width="24" src="ssh (1).png"/> SSH      |       <img width="24" align="center" src="JSON.png"/> JSON       |
-| <img width="24" align="center" src="IntelliJ IDEA.png"/> IntelliJ |    <img align="center" width="24" src="Maven.png"/> Maven       |  <img width="24" align="center" src="Apache-Camel.png"/> Camel   |
-|    <img width="24" align="center" src="VScode.png"/>  VS Code     |      <img align="center" width="24" src="YAML.png"/> YAML       |  <img width="24" align="center" src="Apache Kafka.png"/> Kafka   |
+|       <img align="center" width="24" src="Java.png"/> Java        |    <img width="24" align="center" src="Docker.png"/> Docker     |  <img align="center" width="24" src="thymeleaf.png"/> Thymeleaf             |
+|:-----------------------------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------------------------------:           |
+|   <img align="center" width="24" src="Spring.png"/> Spring Boot   | <img align="center" width="24" src="Liquibase.png"/> Liquibase  |        <img width="24" align="center" src="Git.png"/> Git                   |
+|        <img align="center" width="24" src="AWS.png"/> AWS         | <img align="center" width="24" src="Hibernate.png"/> Hibernate  |      <img width="24" align="center" src="Linux.png"/> Linux                 |
+|     <img align="center" src="JUnit.png" width="24" /> JUnit 5     |   <img align="center" width="24" src="Swagger.png"/> Swagger    | <img width="24" align="center" src="Powershell.png"/> Powershell            |
+|    <img align="center" width="24" src="api.png"/> RESTful API     |   <img align="center" width="24" src="Postman.png"/> Postman    |    <img width="24" align="center" src="OpenAPI.png"/> OpenAPI               |
+|  <img width="24" align="center" src="Lubuntu.png"/>  Lubuntu      | <img width="24" align="center" src="Apache Groovy.png"/> Groovy |  <img width="24" align="center" src="lombok.png"/> Lombok                   |
+|  <img align="center" width="24" src="SQLServer.png"/> SQL Server  |     <img align="center" width="24" src="ssh (1).png"/> SSH      |       <img width="24" align="center" src="JSON.png"/> JSON                  |
+| <img width="24" align="center" src="IntelliJ IDEA.png"/> IntelliJ |    <img align="center" width="24" src="Maven.png"/> Maven       |  <img width="24" align="center" src="Apache-Camel.png"/> Camel              |
+|    <img width="24" align="center" src="VScode.png"/>  VS Code     |      <img align="center" width="24" src="YAML.png"/> YAML       |  <img width="24" align="center" src="Apache Kafka.png"/> Kafka              |
+|    <img width="24" align="center" src="wezterm.svg"/>  WezTerm    |      <img align="center" width="24" src="neovim.svg"/> NeoVim   |<img align="center" width="24" src="elasticsearch.svg"/> ElasticSearch       |
 
 
 ## 🔭 Featured Projects
